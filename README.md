@@ -2,7 +2,7 @@
 StratOptions for Google Script enables you to analyse payoff graphs and track positions of multi-legged options strategies for contracts available on the National Stock Exchange, India
 
 ## How to use this script
-1. Make a copy of this template <https://goo.gl/FhU6hA> by opening the URL while being signed-in on Google Drive, then going to "File" > "Make a copy..."
+1. Make a copy of this template <https://goo.gl/FhU6hA> by opening the URL while you're signed into Google Drive, then going to "File" > "Make a copy..."
 2. Copy code in the stratoptions.gs file. Go to "Tools" > "Script editor...", delete any default code, and paste.
 3. Save the script project giving it a name, say StratOptionsGS.
 4. Reload the spreadsheet file to enable new menu items. 
